@@ -1,0 +1,27 @@
+# 补充规则1，需要代理
+DOMAIN-KEYWORD,zodgame
+DOMAIN-KEYWORD,pixiv
+DOMAIN-SUFFIX,konachan.com
+DOMAIN-SUFFIX,exhentai.org
+DOMAIN-SUFFIX,store.ubi.com
+DOMAIN-SUFFIX,saucenao.com
+DOMAIN-SUFFIX,91porn.com
+DOMAIN-SUFFIX,yande.re
+DOMAIN-KEYWORD,sankakucomplex
+DOMAIN-SUFFIX,q8891q.com
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-KEYWORD,btsow
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,69story.com
+DOMAIN-SUFFIX,freehostia.com
+DOMAIN-SUFFIX,docs.cfw.lbyczf.com
+DOMAIN-SUFFIX,thenounproject.com
+DOMAIN-KEYWORD,7mmtv
+DOMAIN-KEYWORD,qingmocx
+DOMAIN-KEYWORD,javbooks
+DOMAIN-KEYWORD,nyavoo
+DOMAIN-KEYWORD,avmoo
+DOMAIN-KEYWORD,avmask
+DOMAIN-SUFFIX,iowoi.me
+DOMAIN-SUFFIX,iwara.tv
+DOMAIN-SUFFIX,motimoti3d.jp
