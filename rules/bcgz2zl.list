@@ -25,7 +25,7 @@ DOMAIN-KEYWORD,huya
   - DOMAIN-KEYWORD,alipay
   - DOMAIN-KEYWORD,appzapp
   - DOMAIN-KEYWORD,baidupcs
-  - DOMAIN-KEYWORD,bilibili
+
   - DOMAIN-KEYWORD,ccgslb
   - DOMAIN-KEYWORD,chinacache
   - DOMAIN-KEYWORD,duobao
@@ -108,7 +108,7 @@ DOMAIN-KEYWORD,huya
 
   # Bilibili 比利比利
   - DOMAIN-SUFFIX,acg.tv
-  - DOMAIN-SUFFIX,acgvideo.com
+
   - DOMAIN-SUFFIX,b23.tv
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,biliapi.net
