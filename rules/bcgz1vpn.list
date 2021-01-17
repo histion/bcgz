@@ -1,4 +1,5 @@
 # 补充规则1，需要代理
+DOMAIN-SUFFIX,filemanager.ai
 DOMAIN-KEYWORD,zodgame
 DOMAIN-KEYWORD,pixiv
 DOMAIN-SUFFIX,konachan.com
