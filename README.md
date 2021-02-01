@@ -11,7 +11,8 @@ bcgz4reject.list  | reject（全球拦截-拒绝访问） |
 bilibili.list   | 批站港澳台 |
 <div align=center>
 <img src="https://files.yande.re/sample/e01c433e7ffcb0df8a4c07645c6cf821/yande.re%20437843%20sample%20arihara_nanami%20game_cg%20kobuichi%20riddle_joker%20seifuku%20sweater%20yuzu-soft.jpg" width="80%" height="80%">
+
+</div>
 ```diff
 ! 七海天下第一
 ```
-</div>
