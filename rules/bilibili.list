@@ -1,1 +1,3 @@
 DOMAIN-KEYWORD,bilibili
+# 补充规则:btsow这类偶尔抽风需要用代理的
+DOMAIN-SUFFIX,btsow.digital
