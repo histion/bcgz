@@ -24,3 +24,5 @@ IP-CIDR,118.24.63.156/32,no-resolve
 IP-CIDR,193.112.159.225/32,no-resolve
 IP-CIDR,223.252.199.66/32,no-resolve
 IP-CIDR,223.252.199.67/32,no-resolve
+# 补充规则:btsow这类偶尔抽风需要用代理的
+DOMAIN-SUFFIX,btsow.cam
