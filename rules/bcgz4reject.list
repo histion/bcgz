@@ -6,3 +6,5 @@ DOMAIN,iadmusicmatvideo.music.126.net
 # 哔咔广告
 DOMAIN,ad-display.wikawika.xyz
 DOMAIN,ad-channel.wikawika.xyz
+# 比特彗星初始页广告 （没有任何误伤的可能性，这个关键词的有多少算多少恶臭）
+DOMAIN-KEYWORD,gouwushengsheng
