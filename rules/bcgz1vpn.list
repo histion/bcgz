@@ -48,3 +48,7 @@ DOMAIN-SUFFIX,ytimg.com
 # 内容：终点
 DOMAIN-KEYWORD,zdfx
 DOMAIN-SUFFIX,ti.zengting.net
+
+
+#fanbox
+DOMAIN-SUFFIX,downloads.fanbox.cc
