@@ -46,9 +46,14 @@ DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
 
 # 内容：终点
+
 DOMAIN-KEYWORD,zdfx
 DOMAIN-SUFFIX,ti.zengting.net
 
 
 #fanbox
-DOMAIN-SUFFIX,downloads.fanbox.cc
+DOMAIN-SUFFIX,kisssub.orgdownloads.fanbox.cc
+
+
+# 内容：移动特色
+DOMAIN-SUFFIX,kisssub.org
