@@ -52,8 +52,10 @@ DOMAIN-SUFFIX,ti.zengting.net
 
 
 #fanbox
-DOMAIN-SUFFIX,kisssub.orgdownloads.fanbox.cc
+DOMAIN-SUFFIX,kisssub.org
+chan.sankakucomplex.comdownloads.fanbox.cc
 
 
 # 内容：移动特色
 DOMAIN-SUFFIX,kisssub.org
+DOMAIN-SUFFIX,sankakucomplex.com
