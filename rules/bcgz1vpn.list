@@ -59,3 +59,5 @@ chan.sankakucomplex.comdownloads.fanbox.cc
 # 内容：移动特色
 DOMAIN-SUFFIX,kisssub.org
 DOMAIN-SUFFIX,sankakucomplex.com
+# 补充规则:btsow这类偶尔抽风需要用代理的
+#DOMAIN-KEYWORD,btsow
