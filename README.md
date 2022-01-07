@@ -1,5 +1,5 @@
 #:mag_right:这是基于[ACL4SSR规则文件](https://github.com/ACL4SSR/ACL4SSR/tree/master "诶，起飞~")基础上应个人需求进行的补充规则。<br>
-文件名参照表
+文件名参照表 
 --------
 
 文件名  | 作用|
