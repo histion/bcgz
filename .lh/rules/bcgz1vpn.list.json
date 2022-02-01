@@ -1,0 +1,18 @@
+{
+    "sourceFile": "rules/bcgz1vpn.list",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1643730223548,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1643730223548,
+            "name": "Commit-0",
+            "content": "# 补充规则1，需要代理\r\nDOMAIN-SUFFIX,filemanager.ai\r\nDOMAIN-KEYWORD,zodgame\r\nDOMAIN-KEYWORD,pixiv\r\nDOMAIN-SUFFIX,konachan.com\r\nDOMAIN-SUFFIX,exhentai.org\r\nDOMAIN-SUFFIX,store.ubi.com\r\nDOMAIN-SUFFIX,saucenao.com\r\nDOMAIN-SUFFIX,91porn.com\r\nDOMAIN-SUFFIX,yande.re\r\nDOMAIN-SUFFIX,q8891q.com\r\nDOMAIN-SUFFIX,github.com\r\nDOMAIN-SUFFIX,69story.com\r\nDOMAIN-SUFFIX,freehostia.com\r\nDOMAIN-SUFFIX,docs.cfw.lbyczf.com\r\nDOMAIN-SUFFIX,thenounproject.com\r\nDOMAIN-KEYWORD,7mmtv\r\nDOMAIN-KEYWORD,qingmocx\r\nDOMAIN-KEYWORD,javbooks\r\nDOMAIN-KEYWORD,nyavoo\r\nDOMAIN-KEYWORD,avmoo\r\nDOMAIN-KEYWORD,avmask\r\nDOMAIN-SUFFIX,iowoi.me\r\nDOMAIN-SUFFIX,iwara.tv\r\nDOMAIN-SUFFIX,motimoti3d.jp\r\nDOMAIN-KEYWORD,byethost\r\nDOMAIN-SUFFIX,netcdn.space\r\nDOMAIN-SUFFIX,atom.io/packages\r\nDOMAIN-SUFFIX,dragonball-multiverse.com\r\nDOMAIN-SUFFIX,ubisoftconnect.com\r\nDOMAIN-SUFFIX,leagueskin.net\r\nDOMAIN-KEYWORD,btsow\r\n\r\n# 内容：YouTube\r\n# 数量：11条\r\nUSER-AGENT,*youtube*\r\nUSER-AGENT,YouTube*\r\nUSER-AGENT,com.google.ios.youtube*\r\nDOMAIN-KEYWORD,youtube\r\nDOMAIN,youtubei.googleapis.com\r\nDOMAIN,yt3.ggpht.com\r\nDOMAIN-SUFFIX,googlevideo.com\r\nDOMAIN-SUFFIX,gvt2.com\r\nDOMAIN-SUFFIX,youtu.be\r\nDOMAIN-SUFFIX,youtube.com\r\nDOMAIN-SUFFIX,ytimg.com\r\n\r\n# 内容：终点\r\n\r\nDOMAIN-KEYWORD,zdfx\r\nDOMAIN-SUFFIX,ti.zengting.net\r\n\r\n\r\n#fanbox\r\nDOMAIN-SUFFIX,kisssub.org\r\nchan.sankakucomplex.comdownloads.fanbox.cc\r\n\r\n\r\n# 内容：移动特色\r\nDOMAIN-SUFFIX,kisssub.org\r\nDOMAIN-SUFFIX,sankakucomplex.com\r\n# 补充规则:btsow这类偶尔抽风需要用代理的\r\n#DOMAIN-KEYWORD,btsow\r\nDOMAIN-SUFFIX,accounts.google.com\r\n\r\n# 内容：临时添加Steam\r\n# 数量：3条\r\nDOMAIN-SUFFIX,fanatical.com\r\nDOMAIN-SUFFIX,humblebundle.com\r\nDOMAIN-SUFFIX,steamcommunity.com\r\n\r\n\r\n# 内容：SteamCN\r\n# 数量：14条\r\nDOMAIN-SUFFIX,csgo.wmsj.cn\r\nDOMAIN-SUFFIX,dl.steam.ksyna.com\r\nDOMAIN-SUFFIX,dota2.wmsj.cn\r\nDOMAIN-SUFFIX,st.dl.bscstorage.net\r\nDOMAIN-SUFFIX,st.dl.eccdnx.com\r\nDOMAIN-SUFFIX,st.dl.pinyuncloud.com\r\nDOMAIN-SUFFIX,steamcommunity-a.akamaihd.net\r\nDOMAIN-SUFFIX,steamcontent.com\r\nDOMAIN-SUFFIX,steamgames.com\r\nDOMAIN-SUFFIX,steampowered.com.8686c.com\r\nDOMAIN-SUFFIX,steamstat.us\r\nDOMAIN-SUFFIX,steamstatic.com\r\nDOMAIN-SUFFIX,steamusercontent.com\r\nDOMAIN-SUFFIX,steamuserimages-a.akamaihd.net\r\nDOMAIN-SUFFIX,store.steampowered.com\r\nDOMAIN-SUFFIX,johren.games\r\nDOMAIN-SUFFIX,www.johren.games\r\nDOMAIN-SUFFIX,steam-chat.com\r\nDOMAIN-SUFFIX,steamcdn-a.akamaihd.net\r\nDOMAIN-SUFFIX,steamuserimages-a.akamaihd.net\r\nDOMAIN-SUFFIX,cdn.akamai.steamstatic.com\r\nDOMAIN-SUFFIX,community.akamai.steamstatic.com\r\nDOMAIN-SUFFIX,media.steampowered.com\r\nDOMAIN-SUFFIX,store.steampowered.com\r\nDOMAIN-SUFFIX,api.steampowered.com\r\nDOMAIN-SUFFIX,steamcommunity.com\r\nDOMAIN-SUFFIX,www.steamcommunity.com\r\nDOMAIN-SUFFIX,local.steampp.net\r\n\r\n\r\n# 内容：mega云盘\r\nDOMAIN-KEYWORD,mega"
+        }
+    ]
+}
