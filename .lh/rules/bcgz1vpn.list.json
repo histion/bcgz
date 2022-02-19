@@ -3,11 +3,19 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1643730223548,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1645270971431,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -99,8 +99,10 @@\n DOMAIN-SUFFIX,api.steampowered.com\r\n DOMAIN-SUFFIX,steamcommunity.com\r\n DOMAIN-SUFFIX,www.steamcommunity.com\r\n DOMAIN-SUFFIX,local.steampp.net\r\n+netflav.com\r\n \r\n \r\n+\r\n # 内容：mega云盘\r\n DOMAIN-KEYWORD,mega\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1645271000026,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -99,10 +99,11 @@\n DOMAIN-SUFFIX,api.steampowered.com\r\n DOMAIN-SUFFIX,steamcommunity.com\r\n DOMAIN-SUFFIX,www.steamcommunity.com\r\n DOMAIN-SUFFIX,local.steampp.net\r\n-netflav.com\r\n+# 内容：2022.2.19\r\n+DOMAIN-SUFFIX,netflav.com\r\n+DOMAIN-SUFFIX,jable.tv\r\n \r\n \r\n-\r\n # 内容：mega云盘\r\n DOMAIN-KEYWORD,mega\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1643730223548,
