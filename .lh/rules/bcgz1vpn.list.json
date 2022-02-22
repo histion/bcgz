@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 2,
+            "activePatchIndex": 4,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -16,6 +16,14 @@
                 {
                     "date": 1645271000026,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -99,10 +99,11 @@\n DOMAIN-SUFFIX,api.steampowered.com\r\n DOMAIN-SUFFIX,steamcommunity.com\r\n DOMAIN-SUFFIX,www.steamcommunity.com\r\n DOMAIN-SUFFIX,local.steampp.net\r\n-netflav.com\r\n+# 内容：2022.2.19\r\n+DOMAIN-SUFFIX,netflav.com\r\n+DOMAIN-SUFFIX,jable.tv\r\n \r\n \r\n-\r\n # 内容：mega云盘\r\n DOMAIN-KEYWORD,mega\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1645539895490,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -52,9 +52,10 @@\n \r\n \r\n #fanbox\r\n DOMAIN-SUFFIX,kisssub.org\r\n-chan.sankakucomplex.comdownloads.fanbox.cc\r\n+DOMAIN-SUFFIX,sankakucomplex.com\r\n+DOMAIN-SUFFIX,fanbox.cc\r\n \r\n \r\n # 内容：移动特色\r\n DOMAIN-SUFFIX,kisssub.org\r\n"
+                },
+                {
+                    "date": 1645540040926,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -106,5 +106,8 @@\n DOMAIN-SUFFIX,jable.tv\r\n \r\n \r\n # 内容：mega云盘\r\n-DOMAIN-KEYWORD,mega\n\\ No newline at end of file\n+DOMAIN-KEYWORD,mega\r\n+\r\n+#内容：exhentai下载\r\n+DOMAIN-SUFFIX,hath.network\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1643730223548,
