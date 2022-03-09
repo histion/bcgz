@@ -111,3 +111,10 @@ DOMAIN-KEYWORD,mega
 
 #内容：exhentai下载
 DOMAIN-SUFFIX,hath.network
+
+
+#内容：赛马娘
+DOMAIN,prd-storage-umamusume.akamaized.net
+DOMAIN-SUFFIX,cygames.jp
+DOMAIN-KEYWORD,umamusume
+DOMAIN-SUFFIX,api-umamusume.cygames.jp

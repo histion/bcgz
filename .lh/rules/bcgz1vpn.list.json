@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 4,
+            "activePatchIndex": 7,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -24,6 +24,18 @@
                 {
                     "date": 1645540040926,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -106,5 +106,8 @@\n DOMAIN-SUFFIX,jable.tv\r\n \r\n \r\n # 内容：mega云盘\r\n-DOMAIN-KEYWORD,mega\n\\ No newline at end of file\n+DOMAIN-KEYWORD,mega\r\n+\r\n+#内容：exhentai下载\r\n+DOMAIN-SUFFIX,hath.network\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1646791729985,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -109,5 +109,11 @@\n # 内容：mega云盘\r\n DOMAIN-KEYWORD,mega\r\n \r\n #内容：exhentai下载\r\n-DOMAIN-SUFFIX,hath.network\n\\ No newline at end of file\n+DOMAIN-SUFFIX,hath.network\r\n+\r\n+\r\n+#内容：赛马娘\r\n+DOMAIN,prd-storage-umamusume.akamaized.net\r\n+DOMAIN-SUFFIX,cygames.jp\r\n+DOMAIN-KEYWORD,umamusume\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1646791749331,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -115,5 +115,5 @@\n \r\n #内容：赛马娘\r\n DOMAIN,prd-storage-umamusume.akamaized.net\r\n DOMAIN-SUFFIX,cygames.jp\r\n-DOMAIN-KEYWORD,umamusume\n\\ No newline at end of file\n+DOMAIN-KEYWORD,umamusume\r\n"
+                },
+                {
+                    "date": 1646791823326,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -116,4 +116,5 @@\n #内容：赛马娘\r\n DOMAIN,prd-storage-umamusume.akamaized.net\r\n DOMAIN-SUFFIX,cygames.jp\r\n DOMAIN-KEYWORD,umamusume\r\n+DOMAIN-SUFFIX,api-umamusume.cygames.jp\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1643730223548,
