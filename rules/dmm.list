@@ -1,14 +1,8 @@
-DOMAIN-SUFFIX,www.dmm.co.jp
-DOMAIN-SUFFIX,dmm.co.jp
-DOMAIN-KEYWORD,dmm
-
 # 内容：临时添加Steam
 # 数量：3条
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,steamcommunity.com
-
-
 # 内容：SteamCN
 # 数量：14条
 DOMAIN-SUFFIX,csgo.wmsj.cn

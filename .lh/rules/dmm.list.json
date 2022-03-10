@@ -3,11 +3,15 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 1,
             "patches": [
                 {
                     "date": 1646872324121,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1646923437135,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,15 +1,9 @@\n-DOMAIN-SUFFIX,www.dmm.co.jp\r\n-DOMAIN-SUFFIX,dmm.co.jp\r\n-DOMAIN-KEYWORD,dmm\r\n-\r\n # 内容：临时添加Steam\r\n # 数量：3条\r\n DOMAIN-SUFFIX,fanatical.com\r\n DOMAIN-SUFFIX,humblebundle.com\r\n DOMAIN-SUFFIX,steamcommunity.com\r\n-\r\n-\r\n # 内容：SteamCN\r\n # 数量：14条\r\n DOMAIN-SUFFIX,csgo.wmsj.cn\r\n DOMAIN-SUFFIX,dl.steam.ksyna.com\r\n"
                 }
             ],
             "date": 1646872324121,
