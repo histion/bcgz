@@ -1,0 +1,18 @@
+{
+    "sourceFile": "rules/dmm.list",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1646872324121,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1646872324121,
+            "name": "Commit-0",
+            "content": "DOMAIN-SUFFIX,www.dmm.co.jp\r\nDOMAIN-SUFFIX,dmm.co.jp\r\nDOMAIN-KEYWORD,dmm\r\n\r\n# 内容：临时添加Steam\r\n# 数量：3条\r\nDOMAIN-SUFFIX,fanatical.com\r\nDOMAIN-SUFFIX,humblebundle.com\r\nDOMAIN-SUFFIX,steamcommunity.com\r\n\r\n\r\n# 内容：SteamCN\r\n# 数量：14条\r\nDOMAIN-SUFFIX,csgo.wmsj.cn\r\nDOMAIN-SUFFIX,dl.steam.ksyna.com\r\nDOMAIN-SUFFIX,dota2.wmsj.cn\r\nDOMAIN-SUFFIX,st.dl.bscstorage.net\r\nDOMAIN-SUFFIX,st.dl.eccdnx.com\r\nDOMAIN-SUFFIX,st.dl.pinyuncloud.com\r\nDOMAIN-SUFFIX,steamcommunity-a.akamaihd.net\r\nDOMAIN-SUFFIX,steamcontent.com\r\nDOMAIN-SUFFIX,steamgames.com\r\nDOMAIN-SUFFIX,steampowered.com.8686c.com\r\nDOMAIN-SUFFIX,steamstat.us\r\nDOMAIN-SUFFIX,steamstatic.com\r\nDOMAIN-SUFFIX,steamusercontent.com\r\nDOMAIN-SUFFIX,steamuserimages-a.akamaihd.net\r\nDOMAIN-SUFFIX,store.steampowered.com\r\nDOMAIN-SUFFIX,johren.games\r\nDOMAIN-SUFFIX,www.johren.games\r\nDOMAIN-SUFFIX,steam-chat.com\r\nDOMAIN-SUFFIX,steamcdn-a.akamaihd.net\r\nDOMAIN-SUFFIX,steamuserimages-a.akamaihd.net\r\nDOMAIN-SUFFIX,cdn.akamai.steamstatic.com\r\nDOMAIN-SUFFIX,community.akamai.steamstatic.com\r\nDOMAIN-SUFFIX,media.steampowered.com\r\nDOMAIN-SUFFIX,store.steampowered.com\r\nDOMAIN-SUFFIX,api.steampowered.com\r\nDOMAIN-SUFFIX,steamcommunity.com\r\nDOMAIN-SUFFIX,www.steamcommunity.com\r\nDOMAIN-SUFFIX,local.steampp.net"
+        }
+    ]
+}
