@@ -15,7 +15,7 @@
 <img src="https://raw.githubusercontent.com/histion/bcgz/config/image/example.png" width="80%" height="80%" >
 </div>
 <div align=center>
-个人定制1与个人定制2参考
+个人定制1参考（个人定制2已被搁置，未来可能删除。）
 <div>
 
 <br>
