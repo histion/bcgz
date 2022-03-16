@@ -9,6 +9,7 @@ bcgz2zl.list  | 直连规则 |
 bcgz3wyydl.list  | 网易云解锁 |
 bcgz4reject.list  | reject（全球拦截-拒绝访问） |
 bilibili.list   | 批站港澳台 |
+steam.list   | steam（包括下载）全局代理（附带了hb），适合应急用 |
 <div align=center>
 <img src="https://files.yande.re/sample/e01c433e7ffcb0df8a4c07645c6cf821/yande.re%20437843%20sample%20arihara_nanami%20game_cg%20kobuichi%20riddle_joker%20seifuku%20sweater%20yuzu-soft.jpg" width="80%" height="80%">
 

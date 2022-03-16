@@ -1,0 +1,18 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1647417563027,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1647417563027,
+            "name": "Commit-0",
+            "content": "#:mag_right:这是基于[ACL4SSR规则文件](https://github.com/ACL4SSR/ACL4SSR/tree/master \"诶，起飞~\")基础上应个人需求进行的补充规则。<br>\r\n文件名参照表  \r\n--------\r\n \r\n文件名  | 作用|\r\n--------- | --------|\r\nbcgz1vpn.list  | 需要代理链接的地址 |\r\nbcgz2zl.list  | 直连规则 |\r\nbcgz3wyydl.list  | 网易云解锁 |\r\nbcgz4reject.list  | reject（全球拦截-拒绝访问） |\r\nbilibili.list   | 批站港澳台 |\r\nsteam.list   | steam（包括下载）全局代理（附带了hb），适合应急用 |\r\n<div align=center>\r\n<img src=\"https://files.yande.re/sample/e01c433e7ffcb0df8a4c07645c6cf821/yande.re%20437843%20sample%20arihara_nanami%20game_cg%20kobuichi%20riddle_joker%20seifuku%20sweater%20yuzu-soft.jpg\" width=\"80%\" height=\"80%\">\r\n\r\n</div>\r\n\r\n<p><div align=center><font face=\"STCAIYUN\" size=\"16\" color=\"#E8D093\">#nanami天下第一</p></font></div>\r\n"
+        }
+    ]
+}
