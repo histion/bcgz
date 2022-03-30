@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 10,
+            "activePatchIndex": 11,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -48,6 +48,10 @@
                 {
                     "date": 1646872292766,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -63,45 +63,9 @@\n # 补充规则:btsow这类偶尔抽风需要用代理的\r\n #DOMAIN-KEYWORD,btsow\r\n DOMAIN-SUFFIX,accounts.google.com\r\n \r\n-# 内容：临时添加Steam\r\n-# 数量：3条\r\n-DOMAIN-SUFFIX,fanatical.com\r\n-DOMAIN-SUFFIX,humblebundle.com\r\n-DOMAIN-SUFFIX,steamcommunity.com\r\n \r\n-\r\n-# 内容：SteamCN\r\n-# 数量：14条\r\n-DOMAIN-SUFFIX,csgo.wmsj.cn\r\n-DOMAIN-SUFFIX,dl.steam.ksyna.com\r\n-DOMAIN-SUFFIX,dota2.wmsj.cn\r\n-DOMAIN-SUFFIX,st.dl.bscstorage.net\r\n-DOMAIN-SUFFIX,st.dl.eccdnx.com\r\n-DOMAIN-SUFFIX,st.dl.pinyuncloud.com\r\n-DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net\r\n-DOMAIN-SUFFIX,steamcontent.com\r\n-DOMAIN-SUFFIX,steamgames.com\r\n-DOMAIN-SUFFIX,steampowered.com.8686c.com\r\n-DOMAIN-SUFFIX,steamstat.us\r\n-DOMAIN-SUFFIX,steamstatic.com\r\n-DOMAIN-SUFFIX,steamusercontent.com\r\n-DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net\r\n-DOMAIN-SUFFIX,store.steampowered.com\r\n-DOMAIN-SUFFIX,johren.games\r\n-DOMAIN-SUFFIX,www.johren.games\r\n-DOMAIN-SUFFIX,steam-chat.com\r\n-DOMAIN-SUFFIX,steamcdn-a.akamaihd.net\r\n-DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net\r\n-DOMAIN-SUFFIX,cdn.akamai.steamstatic.com\r\n-DOMAIN-SUFFIX,community.akamai.steamstatic.com\r\n-DOMAIN-SUFFIX,media.steampowered.com\r\n-DOMAIN-SUFFIX,store.steampowered.com\r\n-DOMAIN-SUFFIX,api.steampowered.com\r\n-DOMAIN-SUFFIX,steamcommunity.com\r\n-DOMAIN-SUFFIX,www.steamcommunity.com\r\n-DOMAIN-SUFFIX,local.steampp.net\r\n # 内容：2022.2.19\r\n DOMAIN-SUFFIX,netflav.com\r\n DOMAIN-SUFFIX,jable.tv\r\n \r\n"
+                },
+                {
+                    "date": 1648638545640,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -29,8 +29,9 @@\n DOMAIN-SUFFIX,dragonball-multiverse.com\r\n DOMAIN-SUFFIX,ubisoftconnect.com\r\n DOMAIN-SUFFIX,leagueskin.net\r\n DOMAIN-KEYWORD,btsow\r\n+DOMAIN-SUFFIX,fapforfun.net\r\n \r\n # 内容：YouTube\r\n # 数量：11条\r\n USER-AGENT,*youtube*\r\n"
                 }
             ],
             "date": 1643730223548,
