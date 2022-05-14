@@ -33,3 +33,13 @@ DOMAIN-SUFFIX,api.steampowered.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,www.steamcommunity.com
 DOMAIN-SUFFIX,local.steampp.net
+DOMAIN-SUFFIX,store.steampowered.com
+DOMAIN-SUFFIX,steam-chat.com
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cdn.akamai.steamstatic.com
+DOMAIN-SUFFIX,community.akamai.steamstatic.com
+DOMAIN-SUFFIX,media.steampowered.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,www.steamcommunity.com
+DOMAIN-SUFFIX,api.steampowered.com
+DOMAIN-SUFFIX,local.steampp.net
