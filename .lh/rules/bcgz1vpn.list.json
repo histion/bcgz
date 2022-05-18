@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 12,
+            "activePatchIndex": 14,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -56,6 +56,14 @@
                 {
                     "date": 1648985057592,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -30,8 +30,9 @@\n DOMAIN-SUFFIX,ubisoftconnect.com\r\n DOMAIN-SUFFIX,leagueskin.net\r\n DOMAIN-KEYWORD,btsow\r\n DOMAIN-SUFFIX,fapforfun.net\r\n+DOMAIN-SUFFIX,f95zone.to\r\n \r\n # 内容：YouTube\r\n # 数量：11条\r\n USER-AGENT,*youtube*\r\n"
+                },
+                {
+                    "date": 1652872634363,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -31,9 +31,9 @@\n DOMAIN-SUFFIX,leagueskin.net\r\n DOMAIN-KEYWORD,btsow\r\n DOMAIN-SUFFIX,fapforfun.net\r\n DOMAIN-SUFFIX,f95zone.to\r\n-\r\n+DOMAIN-SUFFIX,iwara.tv\r\n # 内容：YouTube\r\n # 数量：11条\r\n USER-AGENT,*youtube*\r\n USER-AGENT,YouTube*\r\n"
+                },
+                {
+                    "date": 1652872647267,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -31,9 +31,9 @@\n DOMAIN-SUFFIX,leagueskin.net\r\n DOMAIN-KEYWORD,btsow\r\n DOMAIN-SUFFIX,fapforfun.net\r\n DOMAIN-SUFFIX,f95zone.to\r\n-DOMAIN-SUFFIX,iwara.tv\r\n+DOMAIN-SUFFIX,javdb.com\r\n # 内容：YouTube\r\n # 数量：11条\r\n USER-AGENT,*youtube*\r\n USER-AGENT,YouTube*\r\n"
                 }
             ],
             "date": 1643730223548,
