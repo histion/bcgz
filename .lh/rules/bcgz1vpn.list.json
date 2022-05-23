@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 14,
+            "activePatchIndex": 15,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -64,6 +64,10 @@
                 {
                     "date": 1652872647267,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -31,9 +31,9 @@\n DOMAIN-SUFFIX,leagueskin.net\r\n DOMAIN-KEYWORD,btsow\r\n DOMAIN-SUFFIX,fapforfun.net\r\n DOMAIN-SUFFIX,f95zone.to\r\n-DOMAIN-SUFFIX,iwara.tv\r\n+DOMAIN-SUFFIX,javdb.com\r\n # 内容：YouTube\r\n # 数量：11条\r\n USER-AGENT,*youtube*\r\n USER-AGENT,YouTube*\r\n"
+                },
+                {
+                    "date": 1653315863384,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -45,8 +45,9 @@\n DOMAIN-SUFFIX,gvt2.com\r\n DOMAIN-SUFFIX,youtu.be\r\n DOMAIN-SUFFIX,youtube.com\r\n DOMAIN-SUFFIX,ytimg.com\r\n+DOMAIN-SUFFIX,cdn.jsdelivr.net\r\n \r\n # 内容：终点\r\n \r\n DOMAIN-KEYWORD,zdfx\r\n"
                 }
             ],
             "date": 1643730223548,
