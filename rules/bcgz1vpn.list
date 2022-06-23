@@ -86,3 +86,5 @@ DOMAIN,prd-storage-umamusume.akamaized.net
 DOMAIN-SUFFIX,cygames.jp
 DOMAIN-KEYWORD,umamusume
 DOMAIN-SUFFIX,api-umamusume.cygames.jp
+#内容：某片片预览
+DOMAIN-SUFFIX,mgstage.com
