@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 19,
+            "activePatchIndex": 22,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -84,6 +84,18 @@
                 {
                     "date": 1657632697049,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -87,5 +87,5 @@\n DOMAIN-KEYWORD,umamusume\r\n DOMAIN-SUFFIX,api-umamusume.cygames.jp\r\n #内容：某片片预览\r\n DOMAIN-SUFFIX,mgstage.com\r\n-DOMAIN-SUFFIX,www.north-plus.net\r\n+DOMAIN-SUFFIX,north-plus.net\r\n"
+                },
+                {
+                    "date": 1657868633439,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -32,8 +32,9 @@\n DOMAIN-KEYWORD,btsow\r\n DOMAIN-SUFFIX,fapforfun.net\r\n DOMAIN-SUFFIX,f95zone.to\r\n DOMAIN-SUFFIX,javdb.com\r\n+\r\n # 内容：YouTube\r\n # 数量：11条\r\n USER-AGENT,*youtube*\r\n USER-AGENT,YouTube*\r\n@@ -48,10 +49,10 @@\n DOMAIN-SUFFIX,ytimg.com\r\n DOMAIN-SUFFIX,cdn.jsdelivr.net\r\n DOMAIN-SUFFIX,wombo.art\r\n DOMAIN-SUFFIX,kemono.party\r\n+\r\n # 内容：终点\r\n-\r\n DOMAIN-KEYWORD,zdfx\r\n DOMAIN-SUFFIX,ti.zengting.net\r\n \r\n \r\n@@ -63,8 +64,9 @@\n \r\n # 内容：移动特色\r\n DOMAIN-SUFFIX,kisssub.org\r\n DOMAIN-SUFFIX,sankakucomplex.com\r\n+\r\n # 补充规则:btsow这类偶尔抽风需要用代理的\r\n #DOMAIN-KEYWORD,btsow\r\n DOMAIN-SUFFIX,accounts.google.com\r\n \r\n@@ -87,5 +89,9 @@\n DOMAIN-KEYWORD,umamusume\r\n DOMAIN-SUFFIX,api-umamusume.cygames.jp\r\n #内容：某片片预览\r\n DOMAIN-SUFFIX,mgstage.com\r\n+#内容：南加\r\n DOMAIN-SUFFIX,north-plus.net\r\n+\r\n+#内容：禁漫天堂\r\n+#DOMAIN-SUFFIX,jmcomic.asia\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1657868638928,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -45,8 +45,10 @@\n DOMAIN-SUFFIX,googlevideo.com\r\n DOMAIN-SUFFIX,gvt2.com\r\n DOMAIN-SUFFIX,youtu.be\r\n DOMAIN-SUFFIX,youtube.com\r\n+\r\n+\r\n DOMAIN-SUFFIX,ytimg.com\r\n DOMAIN-SUFFIX,cdn.jsdelivr.net\r\n DOMAIN-SUFFIX,wombo.art\r\n DOMAIN-SUFFIX,kemono.party\r\n"
+                },
+                {
+                    "date": 1657868731482,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -95,5 +95,5 @@\n #内容：南加\r\n DOMAIN-SUFFIX,north-plus.net\r\n \r\n #内容：禁漫天堂\r\n-#DOMAIN-SUFFIX,jmcomic.asia\n\\ No newline at end of file\n+DOMAIN-SUFFIX,jmcomic.asia\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1643730223548,

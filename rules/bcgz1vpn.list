@@ -33,6 +33,7 @@ DOMAIN-KEYWORD,btsow
 DOMAIN-SUFFIX,fapforfun.net
 DOMAIN-SUFFIX,f95zone.to
 DOMAIN-SUFFIX,javdb.com
+
 # 内容：YouTube
 # 数量：11条
 USER-AGENT,*youtube*
@@ -45,12 +46,14 @@ DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
+
+
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,cdn.jsdelivr.net
 DOMAIN-SUFFIX,wombo.art
 DOMAIN-SUFFIX,kemono.party
-# 内容：终点
 
+# 内容：终点
 DOMAIN-KEYWORD,zdfx
 DOMAIN-SUFFIX,ti.zengting.net
 
@@ -64,6 +67,7 @@ DOMAIN-SUFFIX,fanbox.cc
 # 内容：移动特色
 DOMAIN-SUFFIX,kisssub.org
 DOMAIN-SUFFIX,sankakucomplex.com
+
 # 补充规则:btsow这类偶尔抽风需要用代理的
 #DOMAIN-KEYWORD,btsow
 DOMAIN-SUFFIX,accounts.google.com
@@ -88,4 +92,8 @@ DOMAIN-KEYWORD,umamusume
 DOMAIN-SUFFIX,api-umamusume.cygames.jp
 #内容：某片片预览
 DOMAIN-SUFFIX,mgstage.com
+#内容：南加
 DOMAIN-SUFFIX,north-plus.net
+
+#内容：禁漫天堂
+DOMAIN-SUFFIX,jmcomic.asia
