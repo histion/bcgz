@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 14,
+            "activePatchIndex": 18,
             "patches": [
                 {
                     "date": 1646922808527,
@@ -64,6 +64,22 @@
                 {
                     "date": 1651895247523,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -19,10 +19,11 @@\n ruleset=🎮 steam代理（包括下载）,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list\r\n ruleset=🎮 steam代理（包括下载）,https://raw.githubusercontent.com/histion/bcgz/main/rules/steam.list\r\n ruleset=📺 哔哩哔哩港澳台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/BilibiliHMT.list\r\n ruleset=📺 哔哩哔哩港澳台,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bilibili.list\r\n+\r\n+ruleset=🎸 网易云音乐,https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/NetEaseMusic/NetEaseMusic.list\r\n ruleset=🎸 网易云音乐,https://raw.githubusercontent.com/histion/bcgz/main/rules/bcgz3wyydl.list\r\n-ruleset=🎸 网易云音乐,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/NetEaseMusic.list\r\n \r\n ruleset=🛑 全球拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list\r\n \r\n ruleset=🛑 全球拦截,https://raw.githubusercontent.com/histion/bcgz/main/rules/bcgz4reject.list\r\n"
+                },
+                {
+                    "date": 1658926693735,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT\r\n custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT\r\n custom_proxy_group=🐋 漏网之鱼`select`[]DIRECT`[]🚀 节点选择\r\n custom_proxy_group=🎯 全球直连`select`[]DIRECT\r\n-custom_proxy_group=⌛  剩余流量`select`流量\r\n+custom_proxy_group=  剩余流量`select`流量\r\n ;设置分组标志位\r\n \r\n ruleset=🎮 steam代理（包括下载）,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list\r\n ruleset=🎮 steam代理（包括下载）,https://raw.githubusercontent.com/histion/bcgz/main/rules/steam.list\r\n"
+                },
+                {
+                    "date": 1658926716453,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT\r\n custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT\r\n custom_proxy_group=🐋 漏网之鱼`select`[]DIRECT`[]🚀 节点选择\r\n custom_proxy_group=🎯 全球直连`select`[]DIRECT\r\n-custom_proxy_group=  剩余流量`select`流量\r\n+custom_proxy_group=☁️ 归属地云出国`select`流量\r\n ;设置分组标志位\r\n \r\n ruleset=🎮 steam代理（包括下载）,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list\r\n ruleset=🎮 steam代理（包括下载）,https://raw.githubusercontent.com/histion/bcgz/main/rules/steam.list\r\n"
+                },
+                {
+                    "date": 1658926800241,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n custom_proxy_group=🍃 应用净化`select`[]REJECT`[]DIRECT\r\n custom_proxy_group=🛑 全球拦截`select`[]REJECT`[]DIRECT\r\n custom_proxy_group=🐋 漏网之鱼`select`[]DIRECT`[]🚀 节点选择\r\n custom_proxy_group=🎯 全球直连`select`[]DIRECT\r\n-custom_proxy_group=☁️ 归属地云出国`select`流量\r\n+custom_proxy_group=☁️ 归属地云出国`select`[]DIRECT`俄罗斯|印度|土耳其|亚特兰大|法国|英国|澳大利亚|南非|悉尼|加拿大|菲律宾|泰国|曼谷|马尼拉|德国|阿根廷|巴西|韩国|首尔|美|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|US|川日|东京|大阪|泉日|埼玉|沪日|深日|JP|日本|新加坡|狮城|SG|台|新北|彰化|TW|香港|HK|HONG|Hong|HGC\r\n ;设置分组标志位\r\n \r\n ruleset=🎮 steam代理（包括下载）,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Steam.list\r\n ruleset=🎮 steam代理（包括下载）,https://raw.githubusercontent.com/histion/bcgz/main/rules/steam.list\r\n@@ -52,7 +52,7 @@\n ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list\r\n ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list\r\n ruleset=🎯 全球直连,[]GEOIP,CN\r\n ruleset=🐋 漏网之鱼,[]FINAL\r\n-\r\n+ruleset=☁️ 归属地云出国,\r\n enable_rule_generator=true\r\n overwrite_original_rules=true\r\n"
+                },
+                {
+                    "date": 1658926807556,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -52,7 +52,7 @@\n ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/GoogleCN.list\r\n ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Download.list\r\n ruleset=🎯 全球直连,[]GEOIP,CN\r\n ruleset=🐋 漏网之鱼,[]FINAL\r\n-ruleset=☁️ 归属地云出国,\r\n+ruleset=☁️ 归属地云出国,https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Filter/anti-ip-attribution.list\r\n enable_rule_generator=true\r\n overwrite_original_rules=true\r\n"
                 }
             ],
             "date": 1646922808527,
