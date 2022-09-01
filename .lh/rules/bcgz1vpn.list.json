@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 27,
+            "activePatchIndex": 29,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -116,6 +116,14 @@
                 {
                     "date": 1658732962977,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -99,5 +99,6 @@\n DOMAIN-SUFFIX,jmcomic.asia\r\n DOMAIN-SUFFIX,18comic.vip\r\n #内容：色色\r\n DOMAIN-SUFFIX,mengzhan1234.com\r\n-DOMAIN-SUFFIX,white-plus.net\n\\ No newline at end of file\n+DOMAIN-SUFFIX,white-plus.net\r\n+DOMAIN-SUFFIX,nfmoe1.net\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1662038624614,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -72,11 +72,12 @@\n #DOMAIN-KEYWORD,btsow\r\n DOMAIN-SUFFIX,accounts.google.com\r\n \r\n \r\n-# 内容：2022.2.19\r\n+# 内容：2022\r\n DOMAIN-SUFFIX,netflav.com\r\n DOMAIN-SUFFIX,jable.tv\r\n+DOMAIN-SUFFIX,91ai.net\r\n \r\n \r\n # 内容：mega云盘\r\n DOMAIN-KEYWORD,mega\r\n"
+                },
+                {
+                    "date": 1662038634716,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -76,8 +76,9 @@\n # 内容：2022\r\n DOMAIN-SUFFIX,netflav.com\r\n DOMAIN-SUFFIX,jable.tv\r\n DOMAIN-SUFFIX,91ai.net\r\n+DOMAIN-SUFFIX,hostloc.com\r\n \r\n \r\n # 内容：mega云盘\r\n DOMAIN-KEYWORD,mega\r\n"
                 }
             ],
             "date": 1643730223548,
