@@ -18,7 +18,7 @@ DOMAIN-KEYWORD,7mmtv
 DOMAIN-KEYWORD,qingmocx
 DOMAIN-KEYWORD,javbooks
 DOMAIN-KEYWORD,nyavoo
-DOMAIN-KEYWORD,avmoo
+
 DOMAIN-KEYWORD,avmask
 DOMAIN-SUFFIX,iowoi.me
 DOMAIN-SUFFIX,iwara.tv
@@ -87,11 +87,7 @@ DOMAIN-KEYWORD,mega
 DOMAIN-SUFFIX,hath.network
 
 
-#内容：赛马娘
-DOMAIN,prd-storage-umamusume.akamaized.net
-DOMAIN-SUFFIX,cygames.jp
-DOMAIN-KEYWORD,umamusume
-DOMAIN-SUFFIX,api-umamusume.cygames.jp
+
 #内容：某片片预览
 DOMAIN-SUFFIX,mgstage.com
 #内容：南加

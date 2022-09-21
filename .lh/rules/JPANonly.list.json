@@ -1,0 +1,18 @@
+{
+    "sourceFile": "rules/JPANonly.list",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1663747375284,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1663747375284,
+            "name": "Commit-0",
+            "content": "#内容：赛马娘\r\nDOMAIN,prd-storage-umamusume.akamaized.net\r\nDOMAIN-SUFFIX,cygames.jp\r\nDOMAIN-KEYWORD,umamusume\r\nDOMAIN-SUFFIX,api-umamusume.cygames.jp"
+        }
+    ]
+}
