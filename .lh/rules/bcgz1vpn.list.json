@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 33,
+            "activePatchIndex": 34,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -140,6 +140,10 @@
                 {
                     "date": 1663748555215,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -31,10 +31,10 @@\n DOMAIN-SUFFIX,leagueskin.net\r\n DOMAIN-KEYWORD,btsow\r\n DOMAIN-SUFFIX,fapforfun.net\r\n DOMAIN-SUFFIX,f95zone.to\r\n-DOMAIN-SUFFIX,javdb.com\r\n \r\n+\r\n # 内容：YouTube\r\n # 数量：11条\r\n USER-AGENT,*youtube*\r\n USER-AGENT,YouTube*\r\n"
+                },
+                {
+                    "date": 1663749669484,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,9 +15,8 @@\n DOMAIN-SUFFIX,docs.cfw.lbyczf.com\r\n DOMAIN-SUFFIX,thenounproject.com\r\n DOMAIN-KEYWORD,7mmtv\r\n DOMAIN-KEYWORD,qingmocx\r\n-DOMAIN-KEYWORD,javbooks\r\n DOMAIN-KEYWORD,nyavoo\r\n \r\n DOMAIN-KEYWORD,avmask\r\n DOMAIN-SUFFIX,iowoi.me\r\n"
                 }
             ],
             "date": 1643730223548,
