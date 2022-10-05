@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 34,
+            "activePatchIndex": 35,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -144,6 +144,10 @@
                 {
                     "date": 1663749669484,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -15,9 +15,8 @@\n DOMAIN-SUFFIX,docs.cfw.lbyczf.com\r\n DOMAIN-SUFFIX,thenounproject.com\r\n DOMAIN-KEYWORD,7mmtv\r\n DOMAIN-KEYWORD,qingmocx\r\n-DOMAIN-KEYWORD,javbooks\r\n DOMAIN-KEYWORD,nyavoo\r\n \r\n DOMAIN-KEYWORD,avmask\r\n DOMAIN-SUFFIX,iowoi.me\r\n"
+                },
+                {
+                    "date": 1664952382999,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -97,5 +97,7 @@\n DOMAIN-SUFFIX,18comic.vip\r\n #内容：色色\r\n DOMAIN-SUFFIX,mengzhan1234.com\r\n DOMAIN-SUFFIX,white-plus.net\r\n-DOMAIN-SUFFIX,nfmoe1.net\n\\ No newline at end of file\n+DOMAIN-SUFFIX,nfmoe1.net\r\n+#ai作画\r\n+DOMAIN-SUFFIX,novelai.net\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1643730223548,
