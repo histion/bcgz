@@ -113,4 +113,5 @@ DOMAIN-SUFFIX,gal123.com
 #内容：毛子下载站
 DOMAIN-SUFFIX,passport.yandex.ru
 DOMAIN-SUFFIX,byrut.org
-#内容：Chatgpt
+#内容：google play下载
+DOMAIN,services.googleapis.cn

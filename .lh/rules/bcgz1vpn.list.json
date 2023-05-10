@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 42,
+            "activePatchIndex": 43,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -176,6 +176,10 @@
                 {
                     "date": 1681005082475,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -113,5 +113,4 @@\n #内容：毛子下载站\r\n DOMAIN-SUFFIX,passport.yandex.ru\r\n DOMAIN-SUFFIX,byrut.org\r\n #内容：Chatgpt\r\n-DOMAIN-SUFFIX,poe.com\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1683683900404,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -112,5 +112,6 @@\n DOMAIN-SUFFIX,gal123.com\r\n #内容：毛子下载站\r\n DOMAIN-SUFFIX,passport.yandex.ru\r\n DOMAIN-SUFFIX,byrut.org\r\n-#内容：Chatgpt\r\n+#内容：google play下载\r\n+DOMAIN,services.googleapis.cn\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1643730223548,
