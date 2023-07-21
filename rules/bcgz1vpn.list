@@ -115,3 +115,5 @@ DOMAIN-SUFFIX,passport.yandex.ru
 DOMAIN-SUFFIX,byrut.org
 #内容：google play下载
 DOMAIN,services.googleapis.cn
+#内容：下番
+DOMAIN-SUFFIX,bangumi.moe
