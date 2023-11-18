@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 46,
+            "activePatchIndex": 51,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -192,6 +192,26 @@
                 {
                     "date": 1694245894690,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -91,11 +91,9 @@\n DOMAIN-SUFFIX,mgstage.com\r\n #内容：南加\r\n DOMAIN-SUFFIX,north-plus.net\r\n \r\n-#内容：禁漫天堂\r\n-DOMAIN-SUFFIX,jmcomic.asia\r\n-DOMAIN-SUFFIX,18comic.vip\r\n+\r\n #内容：色色\r\n DOMAIN-SUFFIX,mengzhan1234.com\r\n DOMAIN-SUFFIX,white-plus.net\r\n DOMAIN-SUFFIX,nfmoe1.net\r\n@@ -115,5 +113,6 @@\n DOMAIN-SUFFIX,byrut.org\r\n #内容：google play下载\r\n DOMAIN,services.googleapis.cn\r\n #内容：下番\r\n-DOMAIN-SUFFIX,bangumi.moe\n\\ No newline at end of file\n+DOMAIN-SUFFIX,bangumi.moe\r\n+DOMAIN-SUFFIX,sssoou.com\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1700294288854,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -96,12 +96,14 @@\n #内容：色色\r\n DOMAIN-SUFFIX,mengzhan1234.com\r\n DOMAIN-SUFFIX,white-plus.net\r\n DOMAIN-SUFFIX,nfmoe1.net\r\n+DOMAIN-SUFFIX,laowang-admin-pic.pwmail.vip\r\n \r\n #ai作画\r\n DOMAIN-SUFFIX,novelai.net\r\n DOMAIN-SUFFIX,civitai.com\r\n+DOMAIN-SUFFIX,huggingface.co\r\n #忘了是啥，好像是色色\r\n DOMAIN-SUFFIX,www.tktube.com\r\n DOMAIN-SUFFIX,laowang.vip\r\n #内容：不良林\r\n@@ -114,5 +116,7 @@\n #内容：google play下载\r\n DOMAIN,services.googleapis.cn\r\n #内容：下番\r\n DOMAIN-SUFFIX,bangumi.moe\r\n-DOMAIN-SUFFIX,sssoou.com\n\\ No newline at end of file\n+DOMAIN-SUFFIX,sssoou.com\r\n+\r\n+oaistatic.com \n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1700294309015,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -117,6 +117,7 @@\n DOMAIN,services.googleapis.cn\r\n #内容：下番\r\n DOMAIN-SUFFIX,bangumi.moe\r\n DOMAIN-SUFFIX,sssoou.com\r\n-\r\n-oaistatic.com \n\\ No newline at end of file\n+#内容：gptchat\r\n+DOMAIN-SUFFIX,*.oaistatic.com\r\n+DOMAIN-SUFFIX,*.oaiusercontent.com\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1700294319283,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -119,5 +119,18 @@\n DOMAIN-SUFFIX,bangumi.moe\r\n DOMAIN-SUFFIX,sssoou.com\r\n #内容：gptchat\r\n DOMAIN-SUFFIX,*.oaistatic.com\r\n-DOMAIN-SUFFIX,*.oaiusercontent.com\n\\ No newline at end of file\n+DOMAIN-SUFFIX,*.oaiusercontent.com\r\n+DOMAIN-KEYWORD,openai\r\n+DOMAIN-SUFFIX,auth0.com\r\n+DOMAIN-SUFFIX,challenges.cloudflare.com\r\n+DOMAIN-SUFFIX,client-api.arkoselabs.com\r\n+DOMAIN-SUFFIX,events.statsigapi.net\r\n+DOMAIN-SUFFIX,featuregates.org\r\n+DOMAIN-SUFFIX,identrust.com\r\n+DOMAIN-SUFFIX,intercom.io\r\n+DOMAIN-SUFFIX,intercomcdn.com\r\n+DOMAIN-SUFFIX,openai.com\r\n+DOMAIN-SUFFIX,openaiapi-site.azureedge.net\r\n+DOMAIN-SUFFIX,sentry.io\r\n+DOMAIN-SUFFIX,stripe.com\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1700294325982,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -120,9 +120,8 @@\n DOMAIN-SUFFIX,sssoou.com\r\n #内容：gptchat\r\n DOMAIN-SUFFIX,*.oaistatic.com\r\n DOMAIN-SUFFIX,*.oaiusercontent.com\r\n-DOMAIN-KEYWORD,openai\r\n DOMAIN-SUFFIX,auth0.com\r\n DOMAIN-SUFFIX,challenges.cloudflare.com\r\n DOMAIN-SUFFIX,client-api.arkoselabs.com\r\n DOMAIN-SUFFIX,events.statsigapi.net\r\n"
+                },
+                {
+                    "date": 1700294333055,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -120,9 +120,8 @@\n DOMAIN-SUFFIX,sssoou.com\r\n #内容：gptchat\r\n DOMAIN-SUFFIX,*.oaistatic.com\r\n DOMAIN-SUFFIX,*.oaiusercontent.com\r\n-DOMAIN-SUFFIX,auth0.com\r\n DOMAIN-SUFFIX,challenges.cloudflare.com\r\n DOMAIN-SUFFIX,client-api.arkoselabs.com\r\n DOMAIN-SUFFIX,events.statsigapi.net\r\n DOMAIN-SUFFIX,featuregates.org\r\n"
                 }
             ],
             "date": 1643730223548,
