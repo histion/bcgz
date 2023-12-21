@@ -135,3 +135,5 @@ DOMAIN-SUFFIX,stripe.com
 
 #内容：微软copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,edgeservices.bing.com
+DOMAIN-SUFFIX,sydney.bing.com
