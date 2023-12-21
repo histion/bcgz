@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 51,
+            "activePatchIndex": 52,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -212,6 +212,10 @@
                 {
                     "date": 1700294333055,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -120,9 +120,8 @@\n DOMAIN-SUFFIX,sssoou.com\r\n #内容：gptchat\r\n DOMAIN-SUFFIX,*.oaistatic.com\r\n DOMAIN-SUFFIX,*.oaiusercontent.com\r\n-DOMAIN-SUFFIX,auth0.com\r\n DOMAIN-SUFFIX,challenges.cloudflare.com\r\n DOMAIN-SUFFIX,client-api.arkoselabs.com\r\n DOMAIN-SUFFIX,events.statsigapi.net\r\n DOMAIN-SUFFIX,featuregates.org\r\n"
+                },
+                {
+                    "date": 1703144922482,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -133,5 +133,5 @@\n DOMAIN-SUFFIX,sentry.io\r\n DOMAIN-SUFFIX,stripe.com\r\n \r\n #内容：微软copilot\r\n-https://copilot.microsoft.com/\n\\ No newline at end of file\n+DOMAIN-SUFFIX,https://copilot.microsoft.com\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1643730223548,

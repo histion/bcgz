@@ -132,3 +132,6 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+
+#内容：微软copilot
+DOMAIN-SUFFIX,copilot.microsoft.com
