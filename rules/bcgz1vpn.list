@@ -140,3 +140,5 @@ DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,edgeservices.bing.com
 DOMAIN-SUFFIX,sydney.bing.com
+#内容：挖矿
+DOMAIN-SUFFIX,pyrin.herominers.com
