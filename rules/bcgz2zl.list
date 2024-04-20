@@ -675,3 +675,6 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhongsou.com
 DOMAIN-SUFFIX,zhuihd.com
+
+# 可以通过 HTTPS 协议访问使用eu.org子域名的站点(什么时候墙了再删)
+DOMAIN-SUFFIX,eu.org
