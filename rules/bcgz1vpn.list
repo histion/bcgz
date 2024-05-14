@@ -122,6 +122,7 @@ DOMAIN,services.googleapis.cn
 #内容：下番
 DOMAIN-SUFFIX,bangumi.moe
 DOMAIN-SUFFIX,sssoou.com
+
 #内容：gptchat
 DOMAIN-SUFFIX,*.oaistatic.com
 DOMAIN-SUFFIX,*.oaiusercontent.com
@@ -136,6 +137,7 @@ DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,chatgpt.com
 
 #内容：微软copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
