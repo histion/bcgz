@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,sankakucomplex.com
 DOMAIN-SUFFIX,accounts.google.com
 
 
+
 # 内容：2022
 DOMAIN-SUFFIX,netflav.com
 DOMAIN-SUFFIX,jable.tv
@@ -151,3 +152,5 @@ DOMAIN-SUFFIX,foxwallet.com
 DOMAIN-SUFFIX,mexc.com
 #内容：人机认证
 DOMAIN-SUFFIX,hcaptcha.com
+#内容：色色脚本
+DOMAIN-SUFFIX,sleazyfork.org
