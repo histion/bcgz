@@ -156,3 +156,5 @@ DOMAIN-SUFFIX,mexc.com
 DOMAIN-SUFFIX,hcaptcha.com
 #内容：色色脚本
 DOMAIN-SUFFIX,sleazyfork.org
+#内容：推特短连接
+DOMAIN-SUFFIX,t.co
