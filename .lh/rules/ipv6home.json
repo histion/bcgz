@@ -1,0 +1,18 @@
+{
+    "sourceFile": "rules/ipv6home",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1732975425178,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1732975425178,
+            "name": "Commit-0",
+            "content": "#ipv6链接，与路人无关。\r\nDOMAIN-SUFFIX,aikuai.450806.xyz\r\nDOMAIN-SUFFIX,itx.450806.xyz\r\nDOMAIN-SUFFIX,12400f.450806.xyz\r\nDOMAIN-SUFFIX,alist.450806.xyz\r\nDOMAIN-SUFFIX,docker.450806.xyz\r\nDOMAIN-SUFFIX,pve.450806.xyz\r\n"
+        }
+    ]
+}
