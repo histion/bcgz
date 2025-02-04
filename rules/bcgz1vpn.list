@@ -141,7 +141,7 @@ DOMAIN-SUFFIX,openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,chatgpt.com
-
+DOMAIN-SUFFIX,files.catbox.moe
 #内容：微软copilot
 DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,edgeservices.bing.com
