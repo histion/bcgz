@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 52,
+            "activePatchIndex": 53,
             "patches": [
                 {
                     "date": 1643730223548,
@@ -216,6 +216,10 @@
                 {
                     "date": 1703144922482,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -133,5 +133,5 @@\n DOMAIN-SUFFIX,sentry.io\r\n DOMAIN-SUFFIX,stripe.com\r\n \r\n #内容：微软copilot\r\n-https://copilot.microsoft.com/\n\\ No newline at end of file\n+DOMAIN-SUFFIX,https://copilot.microsoft.com\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1782833707772,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -173,5 +173,6 @@\n DOMAIN-SUFFIX,hentaiverse.org\r\n DOMAIN-KEYWORD,hath.network\r\n #内容：ASMR\r\n DOMAIN-SUFFIX,asmr.one\r\n+\r\n DOMAIN-SUFFIX,bgm.tv\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1643730223548,
