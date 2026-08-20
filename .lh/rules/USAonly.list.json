@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 7,
+            "activePatchIndex": 8,
             "patches": [
                 {
                     "date": 1663747349144,
@@ -36,6 +36,10 @@
                 {
                     "date": 1728185323011,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,8 @@\n DOMAIN-KEYWORD,avmoo\r\n DOMAIN-SUFFIX,javdb.com\r\n DOMAIN-KEYWORD,javbooks\r\n DOMAIN-SUFFIX,byrut.org\r\n+#内容：禁漫天堂\r\n+DOMAIN-SUFFIX,jmcomic.asia\r\n+DOMAIN-SUFFIX,18comic.vip\r\n+DOMAIN-SUFFIX,buyee.jp\n\\ No newline at end of file\n"
+                },
+                {
+                    "date": 1787210898598,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,9 @@\n DOMAIN-KEYWORD,avmoo\r\n DOMAIN-SUFFIX,javdb.com\r\n DOMAIN-KEYWORD,javbooks\r\n DOMAIN-SUFFIX,byrut.org\r\n+DOMAIN-SUFFIX,jdbstatic.com\r\n #内容：禁漫天堂\r\n DOMAIN-SUFFIX,jmcomic.asia\r\n DOMAIN-SUFFIX,18comic.vip\r\n DOMAIN-SUFFIX,buyee.jp\n\\ No newline at end of file\n"
                 }
             ],
             "date": 1663747349144,
