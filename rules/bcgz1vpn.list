@@ -84,7 +84,6 @@ DOMAIN-SUFFIX,hostloc.com
 DOMAIN-KEYWORD,mega
 
 #内容：exhentai下载
-DOMAIN-SUFFIX,hath.network
 
 
 
@@ -175,6 +174,8 @@ DOMAIN-SUFFIX,ehgt.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,hentaiverse.org
 DOMAIN-KEYWORD,hath.network
+DOMAIN-SUFFIX,hath.network
+
 #内容：ASMR
 DOMAIN-SUFFIX,asmr.one
 #内容：bangumi，追番
