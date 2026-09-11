@@ -146,10 +146,8 @@ DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,stripe.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,files.catbox.moe
-#内容：微软copilot
-DOMAIN-SUFFIX,copilot.microsoft.com
-DOMAIN-SUFFIX,edgeservices.bing.com
-DOMAIN-SUFFIX,sydney.bing.com
+
+
 #内容：挖矿
 DOMAIN-SUFFIX,herominers.com
 DOMAIN-SUFFIX,f2pool.com
@@ -180,3 +178,5 @@ DOMAIN-SUFFIX,hath.network
 DOMAIN-SUFFIX,asmr.one
 #内容：bangumi，追番
 DOMAIN-SUFFIX,bgm.tv
+#内容：游戏
+DOMAIN-SUFFIX,blog.jinlizhijia.online
